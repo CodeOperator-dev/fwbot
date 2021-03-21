@@ -1,0 +1,13 @@
+{
+    "BOT_TOKEN": "",
+    "SERVER_URL": "",
+    "SERVER_LOGO": "https://media.npr.org/assets/img/2020/07/02/bw_rose_cover_sq-ebcb27b1b61edf014a164e3544ebc7f1d9904788.png",
+    "SERVER_NAME": "Flacco World Rp",
+    "PREFIX": "+",
+    "CHANNELS_ID":{
+        "SUGGESTIONS":"820455948782010408",
+        "MEMES":"820456070245646416",
+        "ANIMALS":"820456118701522994"
+    }
+
+}

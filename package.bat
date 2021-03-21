@@ -1,0 +1,1 @@
+npm i node-fetch discord-fivem-api discord.js os
